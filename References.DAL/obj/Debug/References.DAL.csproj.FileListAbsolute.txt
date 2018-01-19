@@ -1,0 +1,12 @@
+C:\Test\References.TeamF1\References.DAL\obj\Debug\POS.DAL.dll
+C:\Test\References.TeamF1\References.DAL\obj\Debug\POS.DAL.pdb
+C:\Test\References.TeamF1\References.DAL\bin\Debug\POS.DAL.dll.config
+C:\Test\References.TeamF1\References.DAL\bin\Debug\POS.DAL.dll
+C:\Test\References.TeamF1\References.DAL\bin\Debug\POS.DAL.pdb
+C:\Test\References.TeamF1\References.DAL\bin\Debug\EntityFramework.dll
+C:\Test\References.TeamF1\References.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Test\References.TeamF1\References.DAL\bin\Debug\POS.Domain.exe
+C:\Test\References.TeamF1\References.DAL\bin\Debug\POS.Domain.pdb
+C:\Test\References.TeamF1\References.DAL\bin\Debug\EntityFramework.xml
+C:\Test\References.TeamF1\References.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Test\References.TeamF1\References.DAL\obj\Debug\References.DAL.csprojResolveAssemblyReference.cache

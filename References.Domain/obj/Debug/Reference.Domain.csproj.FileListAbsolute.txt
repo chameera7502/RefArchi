@@ -1,0 +1,13 @@
+C:\Test\References.TeamF1\References.Domain\bin\Debug\POS.Domain.exe.config
+C:\Test\References.TeamF1\References.Domain\bin\Debug\POS.Domain.exe
+C:\Test\References.TeamF1\References.Domain\bin\Debug\POS.Domain.pdb
+C:\Test\References.TeamF1\References.Domain\bin\Debug\EntityFramework.dll
+C:\Test\References.TeamF1\References.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Test\References.TeamF1\References.Domain\bin\Debug\System.Data.Common.dll
+C:\Test\References.TeamF1\References.Domain\bin\Debug\System.Data.SqlClient.dll
+C:\Test\References.TeamF1\References.Domain\bin\Debug\EntityFramework.xml
+C:\Test\References.TeamF1\References.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Test\References.TeamF1\References.Domain\obj\Debug\POS.Domain.Migrations.InitialCreate.resources
+C:\Test\References.TeamF1\References.Domain\obj\Debug\Reference.Domain.csproj.GenerateResource.Cache
+C:\Test\References.TeamF1\References.Domain\obj\Debug\POS.Domain.exe
+C:\Test\References.TeamF1\References.Domain\obj\Debug\POS.Domain.pdb

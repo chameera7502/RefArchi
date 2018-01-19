@@ -1,0 +1,4 @@
+C:\Test\References.TeamF1\References.TeamF1\bin\Debug\References.TeamF1.dll
+C:\Test\References.TeamF1\References.TeamF1\bin\Debug\References.TeamF1.pdb
+C:\Test\References.TeamF1\References.TeamF1\obj\Debug\References.TeamF1.dll
+C:\Test\References.TeamF1\References.TeamF1\obj\Debug\References.TeamF1.pdb
